@@ -1,0 +1,29 @@
+{
+  "name": "admin-dashboard",
+  "version": "1.0.0",
+  "description": "Simple Admin dashboard for CRUD operations on mysql table.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmRev/meaww.git"
+  },
+  "keywords": [
+    "mysql",
+    "nodejs",
+    "expressjs"
+  ],
+  "dependencies": {
+    "express": "*",
+    "mysql": "*",
+    "body-parser": "*"
+  },
+  "author": "Aman Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmRev/meaww/issues"
+  },
+  "homepage": "https://github.com/AmRev/meaww#readme"
+}
